@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+/* Tema oscuro: scrollbars y controles nativos (inputs, checkbox) en oscuro */
+:root {
+  color-scheme: dark;
+}
+
+* {
+  scrollbar-color: #3f3f46 transparent;
+}
